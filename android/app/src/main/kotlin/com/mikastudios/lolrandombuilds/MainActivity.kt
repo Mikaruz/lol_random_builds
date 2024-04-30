@@ -1,4 +1,4 @@
-package com.example.lol_random_builds
+package com.mikastudios.lolrandombuilds
 
 import io.flutter.embedding.android.FlutterActivity
 
