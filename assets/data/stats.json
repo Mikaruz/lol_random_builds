@@ -1,0 +1,23 @@
+[
+  {
+    "firstRow": [
+      { "id": "AdaptiveForce", "name": "Adaptive Force" },
+      { "id": "AttackSpeed", "name": "Attack Speed" },
+      { "id": "AbilityHaste", "name": "Ability Haste" }
+    ]
+  },
+  {
+    "secondRow": [
+      { "id": "AdaptiveForce", "name": "Adaptive Force" },
+      { "id": "MovementSpeed", "name": "Movement Speed" },
+      { "id": "HealthScaling", "name": "Health Scaling" }
+    ]
+  },
+  {
+    "thirdRow": [
+      { "id": "HealthPlus", "name": "Health Plus" },
+      { "id": "Tenacity", "name": "Tenacity" },
+      { "id": "HealthScaling", "name": "Health Scaling" }
+    ]
+  }
+]

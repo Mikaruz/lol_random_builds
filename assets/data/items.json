@@ -1,0 +1,818 @@
+[
+  {
+    "itemName": "Guardian Angel",
+    "icon": "3026.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Mortal Reminder",
+    "icon": "3033.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Lord Dominik's Regards",
+    "icon": "3036.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Seraph's Embrace",
+    "icon": "3040.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Mejai's Soulstealer",
+    "icon": "3041.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Muramana",
+    "icon": "3042.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Phantom Dancer",
+    "icon": "3046.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Zeke's Convergence",
+    "icon": "3050.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Sterak's Gage",
+    "icon": "3053.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Spirit Visage",
+    "icon": "3065.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Black Cleaver",
+    "icon": "3071.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Bloodthirster",
+    "icon": "3072.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Ravenous Hydra",
+    "icon": "3074.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Thornmail",
+    "icon": "3075.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Warmog's Armor",
+    "icon": "3083.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Runaan's Hurricane",
+    "icon": "3085.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Rabadon's Deathcap",
+    "icon": "3089.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Wit's End",
+    "icon": "3091.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Rapid Firecannon",
+    "icon": "3094.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Stormrazor",
+    "icon": "3095.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Lich Bane",
+    "icon": "3100.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Banshee's Veil",
+    "icon": "3102.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Redemption",
+    "icon": "3107.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Knight's Vow",
+    "icon": "3109.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Frozen Heart",
+    "icon": "3110.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Nashor's Tooth",
+    "icon": "3115.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Rylai's Crystal Scepter",
+    "icon": "3116.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Fimbulwinter",
+    "icon": "3121.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Void Staff",
+    "icon": "3135.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Mercurial Scimitar",
+    "icon": "3139.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Randuin's Omen",
+    "icon": "3143.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Blade of The Ruined King",
+    "icon": "3153.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Maw of Malmortius",
+    "icon": "3156.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Zhonya's Hourglass",
+    "icon": "3157.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Morellonomicon",
+    "icon": "3165.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Umbral Glaive",
+    "icon": "3179.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Hullbreaker",
+    "icon": "3181.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Mikael's Blessing",
+    "icon": "3222.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Ardent Censer",
+    "icon": "3504.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Essence Reaver",
+    "icon": "3508.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Dead Man's Plate",
+    "icon": "3742.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Titanic Hydra",
+    "icon": "3748.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Edge of Night",
+    "icon": "3814.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Force of Nature",
+    "icon": "4401.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Horizon Focus",
+    "icon": "4628.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Cosmic Drive",
+    "icon": "4629.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Demonic Embrace",
+    "icon": "4637.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Shadowflame",
+    "icon": "4645.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Death's Dance",
+    "icon": "6333.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Chempunk Chainsword",
+    "icon": "6609.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Staff of Flowing Water",
+    "icon": "6616.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "The Collector",
+    "icon": "6676.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Serylda's Grudge",
+    "icon": "6694.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Serpent's Fang",
+    "icon": "6695.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Axiom Arc",
+    "icon": "6696.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Anathema's Chains",
+    "icon": "8001.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Abyssal Mask",
+    "icon": "8020.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Spear of Shojin",
+    "icon": "3161.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Sunfire Aegis",
+    "icon": "3068.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Immortal Shieldbow",
+    "icon": "6673.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Imperial Mandate",
+    "icon": "4005.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Kraken Slayer",
+    "icon": "6672.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Statikk Shiv",
+    "icon": "3087.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Cryptbloom",
+    "icon": "3137.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Dawncore",
+    "icon": "6621.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Echoes of Helia",
+    "icon": "6620.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Eclipse",
+    "icon": "6692.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Experimental Hexplate",
+    "icon": "3073.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Guinsoo's Rageblade",
+    "icon": "3124.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Heartsteel",
+    "icon": "3084.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Hextech Rocketbelt",
+    "icon": "3152.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Hollow Radiance",
+    "icon": "6664.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Hubris",
+    "icon": "6697.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Iceborn Gauntlet",
+    "icon": "6662.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Infinity Edge",
+    "icon": "3031.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Jak'Sho, The Protean",
+    "icon": "6665.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Kaenic Rookern",
+    "icon": "2504.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Liandry's Torment",
+    "icon": "6653.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Locket of the Iron Solari",
+    "icon": "3190.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Luden's Companion",
+    "icon": "6655.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Malignance",
+    "icon": "3118.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Opportunity",
+    "icon": "6701.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Profane Hydra",
+    "icon": "6698.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Navori Quickblades",
+    "icon": "6675.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Moonstone Renewer",
+    "icon": "6617.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Riftmaker",
+    "icon": "4633.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Rod of Ages",
+    "icon": "6657.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Shurelya's Battlesong",
+    "icon": "2065.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Stormsurge",
+    "icon": "4646.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Sundered Sky",
+    "icon": "6610.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Stridebreaker",
+    "icon": "6631.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Terminus",
+    "icon": "3302.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Trailblazer",
+    "icon": "3002.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Trinity Force",
+    "icon": "3078.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Unending Despair",
+    "icon": "2502.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Voltaic Cyclosword",
+    "icon": "6699.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Youmuu's Ghostblade",
+    "icon": "3142.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Bloodsong",
+    "icon": "3877.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Solstice Sleigh",
+    "icon": "3876.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Celestial Opposition",
+    "icon": "3869.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Zaz'Zak's Realmspike",
+    "icon": "3871.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  },
+  {
+    "itemName": "Dream Maker",
+    "icon": "3870.png",
+    "isStarter": false,
+    "isBoots": false,
+    "isLegendary": true,
+    "isAramMode": false
+  }
+]

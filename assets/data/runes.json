@@ -1,0 +1,120 @@
+[
+  {
+    "rune": "Precision",
+    "keystones": [
+      { "id": "PressTheAttack", "name": "Press the Attack" },
+      { "id": "LethalTempo", "name": "Lethal Tempo" },
+      { "id": "FleetFootwork", "name": "Fleet Footwork" },
+      { "id": "Conqueror", "name": "Conqueror" }
+    ],
+    "firstRow": [
+      { "id": "Overheal", "name": "Overheal" },
+      { "id": "Triumph", "name": "Triumph" },
+      { "id": "PresenceOfMind", "name": "Presence of Mind" }
+    ],
+    "secondRow": [
+      { "id": "LegendAlacrity", "name": "Legend: Alacrity" },
+      { "id": "LegendTenacity", "name": "Legend: Tenacity" },
+      { "id": "LegendBloodline", "name": "Legend: Bloodline" }
+    ],
+    "thirdRow": [
+      { "id": "CoupDeGrace", "name": "Coup de Grace" },
+      { "id": "CutDown", "name": "Cut Down" },
+      { "id": "LastStand", "name": "Last Stand" }
+    ]
+  },
+  {
+    "rune": "Sorcery",
+    "keystones": [
+      { "id": "SummonAery", "name": "Summon Aery" },
+      { "id": "ArcaneComet", "name": "Arcane Comet" },
+      { "id": "PhaseRush", "name": "Phase Rush" }
+    ],
+    "firstRow": [
+      { "id": "NullifyingOrb", "name": "Nullifying Orb" },
+      { "id": "ManaflowBand", "name": "Manaflow Band" },
+      { "id": "NimbusCloak", "name": "Nimbus Cloak" }
+    ],
+    "secondRow": [
+      { "id": "Transcendence", "name": "Transcendence" },
+      { "id": "Celerity", "name": "Celerity" },
+      { "id": "AbsoluteFocus", "name": "Absolute Focus" }
+    ],
+    "thirdRow": [
+      { "id": "Scorch", "name": "Scorch" },
+      { "id": "Waterwalking", "name": "Waterwalking" },
+      { "id": "GatheringStorm", "name": "Gathering Storm" }
+    ]
+  },
+  {
+    "rune": "Domination",
+    "keystones": [
+      { "id": "Electrocute", "name": "Electrocute" },
+      { "id": "Predator", "name": "Predator" },
+      { "id": "DarkHarvest", "name": "Dark Harvest" },
+      { "id": "HailOfBlades", "name": "Hail of Blades" }
+    ],
+    "firstRow": [
+      { "id": "CheapShot", "name": "Cheap Shot" },
+      { "id": "TasteOfBlood", "name": "Taste of Blood" },
+      { "id": "SuddenImpact", "name": "Sudden Impact" }
+    ],
+    "secondRow": [
+      { "id": "ZombieWard", "name": "Zombie Ward" },
+      { "id": "GhostPoro", "name": "Ghost Poro" },
+      { "id": "EyeballCollection", "name": "Eyeball Collection" }
+    ],
+    "thirdRow": [
+      { "id": "TreasureHunter", "name": "Treasure Hunter" },
+      { "id": "IngeniousHunter", "name": "Ingenious Hunter" },
+      { "id": "RelentlessHunter", "name": "Relentless Hunter" },
+      { "id": "UltimateHunter", "name": "Ultimate Hunter" }
+    ]
+  },
+  {
+    "rune": "Resolve",
+    "keystones": [
+      { "id": "GraspOfTheUndying", "name": "Grasp of the Undying" },
+      { "id": "Aftershock", "name": "Aftershock" },
+      { "id": "Guardian", "name": "Guardian" }
+    ],
+    "firstRow": [
+      { "id": "Demolish", "name": "Demolish" },
+      { "id": "FontOfLife", "name": "Font of Life" },
+      { "id": "ShieldBash", "name": "Shield Bash" }
+    ],
+    "secondRow": [
+      { "id": "Conditioning", "name": "Conditioning" },
+      { "id": "SecondWind", "name": "Second Wind" },
+      { "id": "BonePlating", "name": "Bone Plating" }
+    ],
+    "thirdRow": [
+      { "id": "Overgrowth", "name": "Overgrowth" },
+      { "id": "Revitalize", "name": "Revitalize" },
+      { "id": "Unflinching", "name": "Unflinching" }
+    ]
+  },
+  {
+    "rune": "Inspiration",
+    "keystones": [
+      { "id": "GlacialAugment", "name": "Glacial Augment" },
+      { "id": "UnsealedSpellbook", "name": "Unsealed Spellbook" },
+      { "id": "FirstStrike", "name": "First Strike" }
+    ],
+    "firstRow": [
+      { "id": "HextechFlashtraption", "name": "Hextech Flashtraption" },
+      { "id": "MagicalFootwear", "name": "Magical Footwear" },
+      { "id": "TripleTonic", "name": "Triple Tonic" }
+    ],
+    "secondRow": [
+      { "id": "FuturesMarket", "name": "Future's Market" },
+      { "id": "MinionDematerializer", "name": "Minion Dematerializer" },
+      { "id": "BiscuitDelivery", "name": "Biscuit Delivery" }
+    ],
+    "thirdRow": [
+      { "id": "CosmicInsight", "name": "Cosmic Insight" },
+      { "id": "ApproachVelocity", "name": "Approach Velocity" },
+      { "id": "TimeWarpTonic", "name": "Time Warp Tonic" }
+    ]
+  }
+]
