@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:lol_random_builds/presentation/ads/custom_banner_ad.dart';
 import 'package:lol_random_builds/presentation/providers/build_provider.riverpod.dart';
 import 'package:lol_random_builds/presentation/widgets/widgets.dart';
 
@@ -33,6 +34,7 @@ class WelcomeScreen extends ConsumerWidget {
               ),
               textAlign: TextAlign.center,
             ),
+            const CustomBannerAd(),
             const SizedBox(height: 50),
             const _CustomInput(
               text: 'Select game mode:',

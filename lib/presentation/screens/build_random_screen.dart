@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:lol_random_builds/presentation/ads/custom_banner_ad.dart';
 import 'package:lol_random_builds/presentation/providers/build_provider.riverpod.dart';
 import 'package:lol_random_builds/presentation/widgets/widgets.dart';
 
@@ -211,6 +212,7 @@ class BuilRandomScreen extends ConsumerWidget {
               ],
             ),
           ),
+          const CustomBannerAd(),
           GradientButton(
             onPressed: () {
               ref
